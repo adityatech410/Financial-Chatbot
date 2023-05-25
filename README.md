@@ -2,8 +2,7 @@
 This includes a simple chatbot application in finanace
 And following is a sample question. I have not been thoroghly gone through NLP and thats why when i saw the versatility after complying the chatgpt-3 bot to my vscode, I quickly realised i can do this without NLP as well. After a few tries i got this simple one.
 
-# Q - Tell me my expenditure and tell me how should i optimse it.
-Analyze your spending patterns:
+# Q - Tell me my expenditure and tell me how should i optimse it and Analyze the spending patterns:
 
 # Answer - Based on the data, 
 1. the categories with significant expenses are:
